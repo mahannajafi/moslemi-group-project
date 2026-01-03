@@ -27,7 +27,6 @@ coverage
 Thumbs.db
 *.pem
 .env
-.env.*.local
 *.tsbuildinfo
 *.suo
 *.ntvs*
