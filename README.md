@@ -31,7 +31,7 @@ You can copy `.env.local.example` as a starting point.
 ## Project structure
 - `src/app` – App Router routes, layouts, loading/error boundaries
 - `src/components` – shared UI sections + shadcn/ui
-- `src/lib` – Supabase client + data utilities
+- `src/lib` – shared utilities + API helpers
 
 ## Notes
 - API calls are handled via a lightweight client data layer; auth flows remain client-side to preserve the existing experience.
